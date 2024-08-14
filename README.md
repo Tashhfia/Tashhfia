@@ -6,17 +6,6 @@
 </ul>
 
 <h4 align="left">You can reach out to me at..</h4>
-<div style="margin-top: 20px;">
-    <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
-        <button style="padding: 10px 20px; background-color: #0077b5; color: white; border: none; border-radius: 5px; cursor: pointer;">
-            LinkedIn
-        </button>
-    </a>
-    <a href="mailto:your-email@example.com">
-        <button style="padding: 10px 20px; background-color: #d14836; color: white; border: none; border-radius: 5px; cursor: pointer;">
-            Email Me
-        </button>
-    </a>
-</div>
+<a href=" <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 
