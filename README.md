@@ -1,5 +1,5 @@
 <h3 align="left">Hi there, I am...</h3>
-<p><b>Tashfia Shamim</b></p>
+<p><b>Rifah Shamim</b></p>
 <ul>
   <li>Computer Science graduate from the <a href="https://www.um.edu.my/" target="_blank">University of Malaya</a>, with a specialization in Artificial Intelligence.</li>
   <li>Currently pursuing a Master's degree in Artificial Intelligence at <a href="https://www.fau.eu/studiengang/artificial-intelligence-msc/">Friedrich-Alexander University Erlangen-Nürnberg</a></li>
